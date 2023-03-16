@@ -10,15 +10,6 @@ Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/I4vV9EY61VEDbVGrJvP
 <a align="center"> <img src="https://komarev.com/ghpvc/?username=MrDebo&label=Profile%20views&color=blue&style=flat" alt="MrDebo"/>
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
 <a href="https://github.com/MrDebo"><img title="MrDebo" src="https://img.shields.io/github/followers/MrDebo?label=follow&style=social"></a>
-</p><br>
-<a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=White&labelColor=white">
-<a href="https://www.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white">
-<a href="https://instagram.com/andikarmdni69?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=purple&labelColor=white">
-<a href="https://wa.me/6287718516224?text=Asalamualaikum+Bang+Debo"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
-</p>
+<a href="https://github.com/hekelpro"><img title="hekelpro" src="https://github-readme-stats.vercel.app/api?username=hekelpro&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-
-  
-
-  
+<a href="https://github.com/hekelpro"><img title="hekelpro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekelpro&layout=compact&theme=nightowl"></a><br>
